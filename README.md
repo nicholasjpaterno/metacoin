@@ -9,7 +9,7 @@ blah
 hello world
 goodbye universe
 test
-FRAK
+FRAKing __CYCLON__
 debug winning
 this is it
 NO THIS IS IT
