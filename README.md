@@ -1,3 +1,3 @@
 # metacoin is meta
 
-foobar
+foo bar
