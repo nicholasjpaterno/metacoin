@@ -1,3 +1,3 @@
 # metacoin is meta
 
-real cool
+really cool
