@@ -3,3 +3,4 @@
 foo bar
 test
 test
+test
