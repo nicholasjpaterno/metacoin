@@ -2,4 +2,4 @@
 
 real meta
 
-committing
+quick committing
