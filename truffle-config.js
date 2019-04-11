@@ -1,4 +1,5 @@
-module.exports = {
+module.exports = (() => {
+  return {
   // Uncommenting the defaults below 
   // provides for an easier quick-start with Ganache.
   // You can also follow this format for other networks;
@@ -14,8 +15,8 @@ module.exports = {
     test: {
       host: "127.0.0.1",
       port: 7545,
-      network_id: "*"
-    }
-  }
+      network_id: "*",
+    },
+  },
 };
-
+})();
