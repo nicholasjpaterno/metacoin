@@ -1,4 +1,5 @@
 # metacoin is meta
 testing?
-winner, winner, chicken dinner?
-hello world?\
+winner, winner, chicken diner?
+hello world?
+adf
