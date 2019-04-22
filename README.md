@@ -1,3 +1,3 @@
 # metacoin is meta?
 winner, winner, chicken dinner?
-and then
+no and then!
