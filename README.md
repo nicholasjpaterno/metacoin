@@ -1,3 +1,2 @@
-# metacoin is meta
-testing?
+# metacoin is meta?
 winner, winner, chicken dinner?
