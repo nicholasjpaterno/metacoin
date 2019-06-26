@@ -7,8 +7,4 @@ winner, winner, chicken dinner!!
 
 testing
 test
-hello
-
-
-
-wooo!
+hi
