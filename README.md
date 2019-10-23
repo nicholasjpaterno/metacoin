@@ -4,7 +4,3 @@ test
 test
 winner, winner, chicken dinner!!
 test
-
-test
-testttt
-test
